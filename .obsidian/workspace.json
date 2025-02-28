@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. PeriodicNotes/2025/Daily/03/2025-03-01.md",
+                "file": "Patterns/show_fabric_options_markmap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-01"
+              "title": "show_fabric_options_markmap"
             }
           }
         ]
@@ -274,7 +274,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "git-integration:Open git menu": false,
       "obsidian-custom-frames:Open ChatGPT": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
@@ -299,6 +299,23 @@
   },
   "active": "9c97c3af3ee47ca8",
   "lastOpenFiles": [
+    "4. Archives/미분류자료/algolia.md",
+    "Patterns/show_fabric_options_markmap.md",
+    "4. Archives/미분류자료/블로그 2개 운영하기.md",
+    "_Imported/블로그 2개 운영하기.md",
+    "_Imported/KNIME Twitter Anlysis - 예제.md",
+    "4. Archives/미분류자료/202412250850 프롬프트 작성 원리.md",
+    "4. Archives/미분류자료/KNIME Twitter Anlysis - 예제.md",
+    "_Imported/노션 API와 DB ID.md",
+    "_Imported/Google OAuth 2.0 클라이언트 ID.md",
+    "4. Archives/미분류자료/Google OAuth 2.0 클라이언트 ID.md",
+    "_Imported/Alpha Vantage API.md",
+    "_Imported/Confluence API token.md",
+    "_Imported/바이낸스 API.md",
+    "0. PeriodicNotes/2025/Daily/03/2025-03-01.md",
+    "4. Archives/미분류자료/Open Api - 알라딘 서점.md",
+    "_Imported/Open Api - 알라딘 서점.md",
+    "_Imported/api key.md",
     "2. Areas/투자-비트코인/202503010714_봉현이형_BTC 투자법.md",
     "copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20250301_072137.md",
     "copilot-conversations/copilot-conversations.md",
@@ -310,24 +327,8 @@
     "_Clippings/Thread by @cuzkidi.md",
     "_Clippings/Thread by @dons_korea.md",
     "_Clippings/Thread by @Acein01 2.md",
-    "_Clippings/Thread by @hvuv__.md",
-    "_Clippings/Thread by @Acein01 1.md",
-    "_Clippings/Thread by @asdfgzxcvb_123.md",
-    "_Clippings/Thread by @Acein01.md",
-    "0. PeriodicNotes/2025/Daily/03/2025-03-01.md",
-    "1. Projects/UT 스터디 온라인 교육 콘텐츠 만들기/Youtube - 키노트로 동영상 강의만들기  기초편.md",
-    "3. Resources/Agile-EoA/EoA.README.md",
-    "3. Resources/Agile-EoA/토스에서 요즘 ‘애자일’하는 방법(feat. EoA)  요즘IT.md",
-    "3. Resources/Agile-EoA/Agile-EoA.md",
     "3. Resources/Agile-EoA",
-    "3. Resources/Agile-EoA/애자일 프레임워크 제대로 활용하는 법  요즘IT.md",
-    "3. Resources/Agile-EoA/가장 효과적인 애자일 프레임워크 13가지  요즘IT.md",
-    "Logs/4차원 PKM.md",
-    "Logs/Untitled.md",
-    "0. PeriodicNotes/2025/Daily/03/03.md",
     "0. PeriodicNotes/2025/Daily/03",
-    "_Clippings/_Clippings.md",
-    "0. PeriodicNotes/2025/Daily/02/2025-02-28.md",
     "3. Resources/PKM-Obsidian",
     "3. Resources/list-물건",
     "2. Areas/PKM",
