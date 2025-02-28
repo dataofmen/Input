@@ -1,0 +1,8 @@
+- *e.g. how many FTEs (full time employee) in Research*
+- *How high are the costs for your UserZoom licence?*
+- *How high are the total costs quarterly for the entire Customer Voice?*
+- *Which are the concrete customer journeys you are testing?*
+- *Which are the concrete questions you are asking?*
+	- *For the UserZoomGo test*
+	- *For the interviews* 
+- *What are the stable measures to be compared to QoQ?*

@@ -1,0 +1,1 @@
+https://junglegym.substack.com/p/18-trends-that-will-shape-our-careers

@@ -1,0 +1,4 @@
+POS tagging (Part of speech tagging)
+
+POS tagging은 문장 내 단어들의 품사를 식별하여 태그를 붙여주는 것을 말한다.
+

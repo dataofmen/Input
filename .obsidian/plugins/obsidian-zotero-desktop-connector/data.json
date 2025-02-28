@@ -1,0 +1,21 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "zotero import",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "template-literature-note",
+      "outputPathTemplate": "zotero import/{{citekey}}.md",
+      "imageOutputPathTemplate": "Assets",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Templates/template-line-block.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "all-imported-notes",
+  "shouldConcat": true
+}

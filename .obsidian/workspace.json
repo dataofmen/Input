@@ -1,0 +1,358 @@
+{
+  "main": {
+    "id": "37a4ece0ae44376a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa5e9523c55f28ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c97c3af3ee47ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. PeriodicNotes/2025/Daily/03/2025-03-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-01"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "033576a6b33dff69",
+    "type": "split",
+    "children": [
+      {
+        "id": "b454898db4c8f945",
+        "type": "tabs",
+        "dimension": 41.65844027640671,
+        "children": [
+          {
+            "id": "9110575c83bff6ab",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-para",
+              "state": {},
+              "icon": "zap",
+              "title": "LifeOS"
+            }
+          },
+          {
+            "id": "f131ba9d35afb549",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "84e30e37024d9f2a",
+        "type": "tabs",
+        "dimension": 32.379072063178675,
+        "children": [
+          {
+            "id": "318abbbcd7749f6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cc8540b919f4ee67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9b78bc0e4508fc3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e2f9ecf537a853a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dcd016f6a5cbc420",
+        "type": "tabs",
+        "dimension": 25.962487660414613,
+        "children": [
+          {
+            "id": "c2dc325b5bb339c9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5
+  },
+  "right": {
+    "id": "e909704c2c67d329",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d590967b738185b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe60a9c435028cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logs/202501222137_mindmap test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 202501222137_mindmap test"
+            }
+          },
+          {
+            "id": "6d086e2d3fce45ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logs/202502181011.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 202502181011"
+            }
+          },
+          {
+            "id": "04f8a2214ee0a6ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. PeriodicNotes/2025/Daily/01/2025-01-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-22"
+            }
+          },
+          {
+            "id": "72f2a479a338b79e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6e7b9578ba101659",
+            "type": "leaf",
+            "state": {
+              "type": "mesh-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Mesh AI"
+            }
+          },
+          {
+            "id": "b93878dd799f419f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "1d8ade11d5707dcd",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-bot",
+              "title": "ChatGPT"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "2999e55b0b6a7c38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae16f2053502caa2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 594.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "periodic-para:LifeOS": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "auto-moc:AutoMOC": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "mesh-ai:Mesh AI Integration": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "9c97c3af3ee47ca8",
+  "lastOpenFiles": [
+    "2. Areas/투자-비트코인/202503010714_봉현이형_BTC 투자법.md",
+    "copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20250301_072137.md",
+    "copilot-conversations/copilot-conversations.md",
+    "_Clippings/Thread by @bonghyeon_bro.md",
+    "atomic-notes/atomic-notes.canvas",
+    "copilot-conversations",
+    "_Clippings/Youtube - AI in Obsidian Local LLM Setup Guide in CoPilot.md",
+    "_Clippings/Thread by @LayeredInvest.md",
+    "_Clippings/Thread by @cuzkidi.md",
+    "_Clippings/Thread by @dons_korea.md",
+    "_Clippings/Thread by @Acein01 2.md",
+    "_Clippings/Thread by @hvuv__.md",
+    "_Clippings/Thread by @Acein01 1.md",
+    "_Clippings/Thread by @asdfgzxcvb_123.md",
+    "_Clippings/Thread by @Acein01.md",
+    "0. PeriodicNotes/2025/Daily/03/2025-03-01.md",
+    "1. Projects/UT 스터디 온라인 교육 콘텐츠 만들기/Youtube - 키노트로 동영상 강의만들기  기초편.md",
+    "3. Resources/Agile-EoA/EoA.README.md",
+    "3. Resources/Agile-EoA/토스에서 요즘 ‘애자일’하는 방법(feat. EoA)  요즘IT.md",
+    "3. Resources/Agile-EoA/Agile-EoA.md",
+    "3. Resources/Agile-EoA",
+    "3. Resources/Agile-EoA/애자일 프레임워크 제대로 활용하는 법  요즘IT.md",
+    "3. Resources/Agile-EoA/가장 효과적인 애자일 프레임워크 13가지  요즘IT.md",
+    "Logs/4차원 PKM.md",
+    "Logs/Untitled.md",
+    "0. PeriodicNotes/2025/Daily/03/03.md",
+    "0. PeriodicNotes/2025/Daily/03",
+    "_Clippings/_Clippings.md",
+    "0. PeriodicNotes/2025/Daily/02/2025-02-28.md",
+    "3. Resources/PKM-Obsidian",
+    "3. Resources/list-물건",
+    "2. Areas/PKM",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Text Aura.svg",
+    "Excalidraw/Scripts/Downloaded/Text Arch.svg",
+    "Excalidraw/Scripts/Downloaded/Split text by lines.svg",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw",
+    "zotero import/zotero import.canvas",
+    "_ExcaliBrain",
+    "HOME.canvas",
+    "2. Areas/2. Areas.canvas",
+    "4. Archives/4. Archives.canvas",
+    "1. Projects/1. Projects.canvas",
+    "3. Resources/3. Resources.canvas",
+    "_Imported/_Imported.canvas",
+    "_Books/_Books.canvas",
+    "0. PeriodicNotes/0. PeriodicNotes.canvas"
+  ]
+}

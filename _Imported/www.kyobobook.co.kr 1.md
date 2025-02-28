@@ -1,0 +1,1 @@
+![[Scan Page 48.jpg]]

@@ -1,0 +1,2 @@
+[용어] NO INTERFACE
+Determined to feed their ever-intensifying addictions to digital information AND live in the present moment, consumers are demanding new, more natural forms of interaction with technology. That means devices they can talk to, notifications they can feel, information that's a part of the world around them – and much more!

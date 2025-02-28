@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "geminiApiKey": "AIzaSyDHLa1-dAfeHPT08SIpOsAlwBYx7f3nVng",
+    "selectedModel": "gemini-1.5-pro",
+    "customPrompt": "Please perform a detailed analysis of the provided video transcript by following these instructions:\n\n1. Identify and clearly describe the main topic of the transcript.\n2. Summarize the key message in one or two clear sentences.\n3. List all important points in bullet format, ensuring each point is concise and precise.\n4. Outline the key takeaways derived from the transcript.\n5. Define and explain any technical terms mentioned using simple and accessible language.\n6. Conclude with a brief, objective summary of your analysis.\n\nAdditional Guidelines:\n- Use clear, simple language to ensure the instructions are easy to understand.\n- Avoid overly complex vocabulary or technical jargon unless necessary.\n- Provide detailed and specific instructions to eliminate any ambiguity.\n- Ensure your analysis remains objective and fact-based, focusing on results rather than opinions.\n- Include enough context to facilitate a comprehensive and accurate analysis.\n- **Ensure that the final output is written entirely in Korean.**",
+    "maxTokens": 3000,
+    "temperature": 1
+  }
+}

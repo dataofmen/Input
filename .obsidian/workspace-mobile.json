@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "18470d49632f970f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8920b95cf008053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b7ffd30f63c89db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Imported/LGD 배너 추가.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LGD 배너 추가"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d39a09a2b1da6ca",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3f77f42c40e287ab",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8771520be659fec0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "610951864e7804ea",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "796f6818d68b3f9b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "5415e2f58d06fa47",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b13e582781ac2243",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ebf469d0ae8db600",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0. PeriodicNotes/2025/Daily/01/2025-01-01.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ab1dd234864ffac5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "0. PeriodicNotes/2025/Daily/01/2025-01-01.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "7cf0992932b1891a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "0. PeriodicNotes/2025/Daily/01/2025-01-01.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "69d2dfd9f6587b6a",
+        "type": "leaf",
+        "state": {
+          "type": "periodic-para",
+          "state": {},
+          "icon": "zap",
+          "title": "LifeOS"
+        }
+      },
+      {
+        "id": "24328a925a82fbce",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "hello-nemesis:Hello Nemesis": false,
+      "note-atomizer:Atomize note": false,
+      "mesh-ai:Mesh AI Integration": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-importer:Open Importer": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "periodic-para:LifeOS": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "auto-moc:AutoMOC": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "0b7ffd30f63c89db",
+  "lastOpenFiles": [
+    "1. Projects/이민/이민.README.md",
+    "_Imported/검색 UX 고려 사항.md",
+    "Patterns/create_story_explanation.md",
+    "_Imported/배민 - 1인분, 맛집랭킹.md",
+    "Logs/2021-04-21-1659.md",
+    "_Clippings/Thread by @SEAWEEDTHEKING.md",
+    "Patterns/summarize_meeting.md",
+    "_Clippings/[부동산] 장위10구역 조합사무실.md",
+    "_Clippings/Thread by @uxlinks.md",
+    "_Clippings/물리학처럼 믿음이 가는 분야는 통계적 방법을 많이 사용하지 않는다.md",
+    "_Clippings/LGD - 영프독 작업 관련 메모.md",
+    "_Clippings/Thread by @Redwoodinsight.md",
+    "_Imported/LG 가설 공유.md",
+    "0. PeriodicNotes/2025/Daily/02/2025-02-26.md",
+    "0. PeriodicNotes/2025/Daily/01/2025-01-09.md",
+    "_Imported/강상현 교수님 근황.md",
+    "0. PeriodicNotes/2025/Daily/02/2025-02-25.md",
+    "_Clippings/Article 2025-02-24 07-07-47.md",
+    "_Clippings/_Clippings.md",
+    "0. PeriodicNotes/2025/Daily/02/2025-02-24.md",
+    "_Clippings/Reddit - Dive into anything.md",
+    "_Clippings/Matchmakers in India Now Have Competition AI  The Walrus.md",
+    "0. PeriodicNotes/2025/Daily/02/2025-02-22.md",
+    "0. PeriodicNotes/2025/Daily/02/2025-02-15.md",
+    "0. PeriodicNotes/2025/Daily/02/2025-02-10.md",
+    "0. PeriodicNotes/2025/Monthly/2025-02.md",
+    "0. PeriodicNotes/2025/Daily/00"
+  ]
+}

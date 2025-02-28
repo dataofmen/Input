@@ -1,0 +1,8 @@
+.DS_Store
+.obsidian/plugins/hot-reload/
+.git.nosync
+
+
+
+# Ignore Smart Environment folder
+.smart-env

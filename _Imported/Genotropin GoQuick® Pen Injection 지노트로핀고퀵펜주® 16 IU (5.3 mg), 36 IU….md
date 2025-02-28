@@ -1,0 +1,1 @@
+[**Genotropin GoQuick® Pen Injection 지노트로핀고퀵펜주® 16 IU (5.3 mg), 36 IU (12 mg) 사용법 | 한국화이자 | 한국화이자**](https://www.pfizer.co.kr/3816)

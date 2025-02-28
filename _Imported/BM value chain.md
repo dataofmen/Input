@@ -1,0 +1,3 @@
+BM value chain
+
+![](Assets/77FE7E3D-76DC-4424-BB26-368FADB82B2E.jpg)

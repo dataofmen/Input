@@ -1,0 +1,1 @@
+https://mblogthumb-phinf.pstatic.net/MjAyMjAxMDJfMjc5/MDAxNjQxMTE2NjQxNjA4.vMer8RXM6g2UBUekt4-nR7VHfexCI5e7EgNAKSiteQ4g.F8FE83mo3kIWmM5MLpu_SDWvR8oIOZb8YYKHRhC92Bgg.PNG.badajr/20220102_184349.png?type=w800
