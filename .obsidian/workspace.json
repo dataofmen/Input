@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patterns/show_fabric_options_markmap.md",
+                "file": "4. Archives/미분류자료/자가면역질환 발견을 위한 오픈 소스 AI 도구 개발  GeekNews.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "show_fabric_options_markmap"
+              "title": "자가면역질환 발견을 위한 오픈 소스 AI 도구 개발  GeekNews"
             }
           }
         ]
@@ -299,8 +299,8 @@
   },
   "active": "9c97c3af3ee47ca8",
   "lastOpenFiles": [
-    "4. Archives/미분류자료/algolia.md",
     "Patterns/show_fabric_options_markmap.md",
+    "4. Archives/미분류자료/algolia.md",
     "4. Archives/미분류자료/블로그 2개 운영하기.md",
     "_Imported/블로그 2개 운영하기.md",
     "_Imported/KNIME Twitter Anlysis - 예제.md",
