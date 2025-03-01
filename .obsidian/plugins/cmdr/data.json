@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
@@ -7,14 +7,7 @@
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [
-    {
-      "id": "obsidian-tagfolder:tagfolder-open",
-      "icon": "lucide-folder-tree",
-      "name": "TagFolder: Show Tag Folder",
-      "mode": "any"
-    }
-  ],
+  "statusBar": [],
   "pageHeader": [
     {
       "id": "omnisearch:show-modal",
@@ -23,9 +16,9 @@
       "mode": "any"
     },
     {
-      "id": "note-refactor-obsidian:app:extract-selection-first-line",
-      "icon": "lucide-split",
-      "name": "Note Refactor: Extract selection to new note - first line as file name",
+      "id": "random-note",
+      "icon": "dice-glyph",
+      "name": "Random note: Open random note",
       "mode": "any"
     }
   ],
