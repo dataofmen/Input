@@ -1,3 +1,0 @@
-[용어] App (Application)
-
-Downloadable software that runs  locally on a device when launched by the user. Apps  perform a specific end-user function and run on top of the  device’s operating system. Once installed, an app may  operate without an Internet connection, though  functionality may be limited. Apps are distinct from  websites, which generally demand a greater role for the  server and less client-side functionality.

@@ -1,1 +1,0 @@
-https://learn.macsparky.com/p/km?affcode=256645_m_xabl7v

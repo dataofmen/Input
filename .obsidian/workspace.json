@@ -11,24 +11,10 @@
             "id": "9c97c3af3ee47ca8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archives/미분류자료/자가면역질환 발견을 위한 오픈 소스 AI 도구 개발  GeekNews.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "자가면역질환 발견을 위한 오픈 소스 AI 도구 개발  GeekNews"
+              "title": "New tab"
             }
           }
         ]
@@ -41,37 +27,9 @@
     "type": "split",
     "children": [
       {
-        "id": "b454898db4c8f945",
-        "type": "tabs",
-        "dimension": 41.65844027640671,
-        "children": [
-          {
-            "id": "9110575c83bff6ab",
-            "type": "leaf",
-            "state": {
-              "type": "periodic-para",
-              "state": {},
-              "icon": "zap",
-              "title": "LifeOS"
-            }
-          },
-          {
-            "id": "f131ba9d35afb549",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "84e30e37024d9f2a",
         "type": "tabs",
-        "dimension": 32.379072063178675,
+        "dimension": 55.49915397631133,
         "children": [
           {
             "id": "318abbbcd7749f6f",
@@ -131,7 +89,7 @@
       {
         "id": "dcd016f6a5cbc420",
         "type": "tabs",
-        "dimension": 25.962487660414613,
+        "dimension": 44.500846023688666,
         "children": [
           {
             "id": "c2dc325b5bb339c9",
@@ -228,26 +186,6 @@
               "icon": "lucide-file",
               "title": "Mesh AI"
             }
-          },
-          {
-            "id": "b93878dd799f419f",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "1d8ade11d5707dcd",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-bot",
-              "title": "ChatGPT"
-            }
           }
         ],
         "currentTab": 4
@@ -275,7 +213,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "git-integration:Open git menu": false,
-      "obsidian-custom-frames:Open ChatGPT": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -294,47 +231,59 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "mesh-ai:Mesh AI Integration": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-custom-frames:Open ChatGPT": false
     }
   },
-  "active": "9c97c3af3ee47ca8",
+  "active": "318abbbcd7749f6f",
   "lastOpenFiles": [
-    "Patterns/show_fabric_options_markmap.md",
-    "4. Archives/미분류자료/algolia.md",
-    "4. Archives/미분류자료/블로그 2개 운영하기.md",
-    "_Imported/블로그 2개 운영하기.md",
-    "_Imported/KNIME Twitter Anlysis - 예제.md",
-    "4. Archives/미분류자료/202412250850 프롬프트 작성 원리.md",
-    "4. Archives/미분류자료/KNIME Twitter Anlysis - 예제.md",
-    "_Imported/노션 API와 DB ID.md",
-    "_Imported/Google OAuth 2.0 클라이언트 ID.md",
-    "4. Archives/미분류자료/Google OAuth 2.0 클라이언트 ID.md",
-    "_Imported/Alpha Vantage API.md",
-    "_Imported/Confluence API token.md",
-    "_Imported/바이낸스 API.md",
-    "0. PeriodicNotes/2025/Daily/03/2025-03-01.md",
-    "4. Archives/미분류자료/Open Api - 알라딘 서점.md",
-    "_Imported/Open Api - 알라딘 서점.md",
-    "_Imported/api key.md",
-    "2. Areas/투자-비트코인/202503010714_봉현이형_BTC 투자법.md",
-    "copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20250301_072137.md",
-    "copilot-conversations/copilot-conversations.md",
-    "_Clippings/Thread by @bonghyeon_bro.md",
-    "atomic-notes/atomic-notes.canvas",
-    "copilot-conversations",
-    "_Clippings/Youtube - AI in Obsidian Local LLM Setup Guide in CoPilot.md",
-    "_Clippings/Thread by @LayeredInvest.md",
-    "_Clippings/Thread by @cuzkidi.md",
-    "_Clippings/Thread by @dons_korea.md",
-    "_Clippings/Thread by @Acein01 2.md",
-    "3. Resources/Agile-EoA",
-    "0. PeriodicNotes/2025/Daily/03",
-    "3. Resources/PKM-Obsidian",
+    "_Clippings/_Clippings.md",
+    "_Books/_Books.md",
+    "_Annotation/_Annotation.md",
+    "4. Archives/미분류자료/📔 BRAIN 노트, 생각의 본질을 담은 노트메이킹 템플릿(79호).md",
+    "4. Archives/미분류자료/훌륭한 상사의 특징.md",
+    "4. Archives/미분류자료/훈련용 데이터 만들기.md",
+    "4. Archives/미분류자료/훈련 데이터와 테스트 데이터.md",
+    "4. Archives/미분류자료/효과크기.md",
+    "4. Archives/미분류자료/효과적인 통계 실무를 위한 10가지 규치.md",
+    "4. Archives/미분류자료/회사에서 쓰던 프로그램.md",
+    "4. Archives/미분류자료/회사 지결 방법.md",
+    "4. Archives/미분류자료/회사 제휴 양복점  산탄드레아.md",
+    "4. Archives/미분류자료/회사 와이파이.md",
+    "4. Archives/미분류자료/회사 세우기.md",
+    "4. Archives/미분류자료/회사 근처 식사 클라이언트와 식사 장소.md",
+    "4. Archives/미분류자료/회사 근처 맛집.md",
+    "4. Archives/미분류자료/회사 공인인증서.md",
+    "4. Archives/미분류자료/환율 이해하기.md",
+    "4. Archives/미분류자료/확신을 갖기 위해 여러 가지 이유를 찾으려 하지 말라는 뜻이다. 분명한 .md",
+    "4. Archives/미분류자료/화웨이 P20 Pro 수리점.md",
+    "4. Archives/미분류자료/홈택스 - 엄마.md",
+    "4. Archives/미분류자료/홈케어 관련 제품.md",
+    "4. Archives/미분류자료/홈비짓.md",
+    "4. Archives/미분류자료/혼자회의의 순서.md",
+    "4. Archives/미분류자료/호텔스 닷컴 080-704-0883.md",
+    "4. Archives/미분류자료/형 집주소.md",
+    "4. Archives/강연 준비/사용자경험관리TF.pdf",
+    "4. Archives/강연 준비/HCI 배포자료_참고자료_발췌.pdf",
+    "4. Archives/혁신 과제",
+    "4. Archives/미분류자료",
+    "4. Archives/강연 준비",
+    "4. Archives/4. Archives.canvas",
+    "4. Archives",
+    "3. Resources/뇌과학/뇌과학.canvas",
+    "3. Resources/뇌과학",
+    "3. Resources/woowa-DH",
+    "3. Resources/user-intent",
     "3. Resources/list-물건",
-    "2. Areas/PKM",
+    "3. Resources/3. Resources.canvas",
+    "2. Areas/Work/Work.canvas",
+    "2. Areas/TradingNotes/TradingNotes.canvas",
+    "2. Areas/Conversational_AI/Conversational_AI.canvas",
+    "2. Areas/AI-prompt/AI-prompt.canvas",
+    "2. Areas/AI/AI.canvas",
+    "2. Areas/2. Areas.canvas",
+    "1. Projects/이민/이민.canvas",
     "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Uniform size.svg",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
@@ -343,17 +292,6 @@
     "Excalidraw/Scripts/Downloaded/Text Arch.svg",
     "Excalidraw/Scripts/Downloaded/Split text by lines.svg",
     "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "Excalidraw",
-    "zotero import/zotero import.canvas",
-    "_ExcaliBrain",
-    "HOME.canvas",
-    "2. Areas/2. Areas.canvas",
-    "4. Archives/4. Archives.canvas",
-    "1. Projects/1. Projects.canvas",
-    "3. Resources/3. Resources.canvas",
-    "_Imported/_Imported.canvas",
-    "_Books/_Books.canvas",
-    "0. PeriodicNotes/0. PeriodicNotes.canvas"
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg"
   ]
 }
