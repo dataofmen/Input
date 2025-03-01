@@ -200,9 +200,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "f43e4a8fef188541",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -227,11 +237,13 @@
       "mesh-ai:Mesh AI Integration": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-custom-frames:Open ChatGPT": false,
-      "git-integration:Open git menu": false
+      "git-integration:Open git menu": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c97c3af3ee47ca8",
+  "active": "f43e4a8fef188541",
   "lastOpenFiles": [
+    "_Clippings/Thread by @4_wonderfullife.md",
     "TASK.md",
     "_Books/더 커밍 웨이브.md",
     "_Logs/2025-03-01.md",
@@ -257,7 +269,6 @@
     "4. Archives/미분류자료/화웨이 P20 Pro 수리점.md",
     "4. Archives/미분류자료/홈택스 - 엄마.md",
     "4. Archives/미분류자료/홈케어 관련 제품.md",
-    "4. Archives/미분류자료/홈비짓.md",
     "4. Archives/강연 준비/사용자경험관리TF.pdf",
     "4. Archives/강연 준비/HCI 배포자료_참고자료_발췌.pdf",
     "4. Archives/혁신 과제",
